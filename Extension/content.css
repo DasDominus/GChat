@@ -1,0 +1,11 @@
+/* Styles for ChatGPT content script */
+.sage-highlight {
+    background-color: rgba(0, 128, 0, 0.1);
+    border-left: 3px solid green;
+}
+
+.sage-container {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+} 
